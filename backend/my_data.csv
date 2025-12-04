@@ -1,0 +1,52 @@
+id,agent_id,user_id,input_data,output_data,status,created_at,completed_at,feedback
+1,1,12,"{'task':'summarize'}","{'summary':'done'}",completed,2025-10-01 10:12:21,2025-10-01 10:12:45,1
+2,3,25,"{'query':'fetch reports'}","{'result':'report generated'}",completed,2025-10-01 11:05:10,2025-10-01 11:06:02,1
+3,2,7,"{'msg':'schedule meeting'}","{'status':'meeting set'}",completed,2025-10-02 09:14:08,2025-10-02 09:14:59,1
+4,1,19,"{'task':'translate text'}","{'translated':'hola'}",completed,2025-10-02 12:12:55,2025-10-02 12:13:40,1
+5,4,33,"{'task':'analysis'}","{}",running,2025-10-03 13:22:18,,0
+6,2,41,"{'task':'generate email'}","{'email':'sent'}",completed,2025-10-03 08:15:34,2025-10-03 08:16:12,1
+7,3,16,"{'query':'extract info'}","{'info':'extracted'}",completed,2025-10-04 10:01:19,2025-10-04 10:01:58,1
+8,5,28,"{'task':'cleanup logs'}","{}",queued,2025-10-04 11:42:55,,0
+9,4,9,"{'task':'data check'}","{'checked':'ok'}",completed,2025-10-05 14:22:11,2025-10-05 14:23:01,1
+10,2,15,"{'msg':'set reminder'}","{'reminder':'saved'}",completed,2025-10-05 08:17:44,2025-10-05 08:18:22,1
+11,1,18,"{'task':'summarize'}","{}",failed,2025-10-06 09:15:22,, -1
+12,5,11,"{'task':'validate entry'}","{'validated':'true'}",completed,2025-10-06 09:55:12,2025-10-06 09:55:55,1
+13,3,42,"{'query':'fetch stats'}","{'stats':'ready'}",completed,2025-10-07 10:10:15,2025-10-07 10:11:00,1
+14,4,24,"{'task':'security scan'}","{}",running,2025-10-07 07:30:19,,0
+15,1,5,"{'task':'text improve'}","{'improved':'yes'}",completed,2025-10-08 08:08:55,2025-10-08 08:09:41,1
+16,2,29,"{'msg':'attendance check'}","{'present':true}",completed,2025-10-08 09:45:11,2025-10-08 09:45:55,1
+17,3,31,"{'query':'report ids'}","{}",failed,2025-10-09 11:04:25,, -1
+18,5,6,"{'task':'image classify'}","{'label':'cat'}",completed,2025-10-09 13:01:22,2025-10-09 13:02:05,1
+19,4,14,"{'task':'optimize'}","{}",queued,2025-10-10 10:32:40,,0
+20,1,8,"{'task':'summarize'}","{'summary':'done'}",completed,2025-10-10 11:20:13,2025-10-10 11:21:00,1
+21,2,22,"{'msg':'find user'}","{'found':true}",completed,2025-10-11 13:09:27,2025-10-11 13:10:02,1
+22,3,17,"{'query':'compare files'}","{}",failed,2025-10-11 14:11:09,, -1
+23,5,37,"{'task':'optimize code'}","{'optimized':'yes'}",completed,2025-10-12 07:55:12,2025-10-12 07:55:59,1
+24,4,10,"{'task':'analysis'}","{}",running,2025-10-12 08:22:41,,0
+25,1,26,"{'task':'text correct'}","{'corrected':'ok'}",completed,2025-10-13 09:14:07,2025-10-13 09:14:49,1
+26,2,48,"{'msg':'save note'}","{'saved':true}",completed,2025-10-13 10:22:12,2025-10-13 10:22:48,1
+27,3,4,"{'query':'fetch emails'}","{}",queued,2025-10-14 10:55:21,,0
+28,4,32,"{'task':'background job'}","{}",queued,2025-10-14 11:47:33,,0
+29,5,23,"{'task':'label data'}","{'labelled':'done'}",completed,2025-10-15 08:17:16,2025-10-15 08:17:55,1
+30,1,13,"{'task':'paraphrase'}","{'para':'ok'}",completed,2025-10-15 09:10:41,2025-10-15 09:11:20,1
+31,2,50,"{'msg':'log check'}","{}",failed,2025-10-16 09:51:11,, -1
+32,3,30,"{'query':'link check'}","{'links':'valid'}",completed,2025-10-16 11:02:34,2025-10-16 11:03:16,1
+33,4,21,"{'task':'compile'}","{}",running,2025-10-17 12:10:55,,0
+34,5,2,"{'task':'detect language'}","{'lang':'en'}",completed,2025-10-17 07:22:16,2025-10-17 07:22:59,1
+35,1,49,"{'task':'expand text'}","{}",failed,2025-10-18 08:40:31,, -1
+36,2,36,"{'msg':'schedule task'}","{'task':'scheduled'}",completed,2025-10-18 09:22:47,2025-10-18 09:23:22,1
+37,3,3,"{'query':'get patterns'}","{'patterns':'found'}",completed,2025-10-19 10:05:12,2025-10-19 10:05:52,1
+38,4,20,"{'task':'scan errors'}","{}",queued,2025-10-19 11:33:09,,0
+39,5,47,"{'task':'predict'}","{'value':0.94}",completed,2025-10-20 12:22:55,2025-10-20 12:23:40,1
+40,1,43,"{'task':'summarize'}","{}",running,2025-10-20 13:12:09,,0
+41,2,1,"{'msg':'find logs'}","{}",failed,2025-10-21 08:40:55,, -1
+42,3,35,"{'query':'compare data'}","{'match':true}",completed,2025-10-21 09:22:18,2025-10-21 09:23:01,1
+43,4,40,"{'task':'convert'}","{}",queued,2025-10-22 10:17:15,,0
+44,5,27,"{'task':'image resize'}","{'status':'ok'}",completed,2025-10-22 11:22:09,2025-10-22 11:22:52,1
+45,1,38,"{'task':'generate title'}","{}",failed,2025-10-23 12:01:11,, -1
+46,2,45,"{'msg':'sync data'}","{'result':'synced'}",completed,2025-10-23 12:52:18,2025-10-23 12:53:01,1
+47,3,34,"{'query':'text match'}","{'match_score':0.88}",completed,2025-10-24 07:14:22,2025-10-24 07:15:00,1
+48,4,44,"{'task':'optimize run'}","{}",running,2025-10-24 08:11:39,,0
+49,5,39,"{'task':'cluster'}","{'clusters':4}",completed,2025-10-25 09:14:55,2025-10-25 09:15:36,1
+50,1,46,"{'task':'spell check'}","{'spellings':'fixed'}",completed,2025-10-25 10:22:31,2025-10-25 10:23:10,1
+51,4,51,"{'task':'spell check'}","{'spellings':'fixed'}",completed,2025-11-27 10:22:31,2025-11-21 10:23:10,1
