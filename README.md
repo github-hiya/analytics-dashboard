@@ -95,6 +95,8 @@ A real-time analytics dashboard for monitoring agent performance and user feedba
 
 <img width="1701" height="552" alt="image" src="https://github.com/user-attachments/assets/76354d95-85a1-4468-8bbc-87f3cf03d53b" />
 
+<img width="1711" height="619" alt="image" src="https://github.com/user-attachments/assets/bdcbd392-28af-4e8a-9971-1104a64723fe" />
 
 
+<img width="1711" height="565" alt="image" src="https://github.com/user-attachments/assets/91804a23-619c-406e-90b1-4121ef4b626d" />
 
